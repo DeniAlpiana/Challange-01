@@ -1,0 +1,325 @@
+@media only screen and (max-width: 1280px) {
+    #why_us .card {
+        width: 250px;
+        height: 196px;
+        padding: 24px;
+    }
+}
+
+@media only screen and (max-width: 1220px) {
+    #faq #right_faq .accordion-item {
+        width: 600px;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    #why_us .card {
+        width: 240px;
+        height: 196px;
+        padding: 13px;
+    }
+
+    #footer #left_item{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    #footer #middle_left_item{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #footer #right_item{
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    #footer #middle_right_item {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 1150px) {
+    #why_us .card {
+        width: 230px;
+    }
+}
+
+@media only screen and (max-width: 1090px) {
+    #faq #right_faq .accordion-item {
+        width: 550px;
+    }
+    #why_us .card {
+        width: 215px;
+    }
+
+    .swiper-slide {
+        width: 516px !important;
+    }
+}
+
+@media only screen and (max-width: 1040px) {
+    #why_us .card {
+        width: 48%;
+        margin-bottom: 20px;
+    }
+    #testimonial {
+        margin-top: 280px;
+    }
+}
+
+@media only screen and (max-width: 990px) {
+    #why_us .card {
+        width: 48%;
+        margin-bottom: 20px;
+        padding: 24px;
+    }
+    #faq #right_faq .accordion-item {
+        width: 490px;
+    }
+
+    header #left_header h1 {
+        font-size: 32px;
+    }
+    
+    header #left_header p {
+        font-size: 13px;
+    }
+    
+    header #left_header button {
+        font-size: 13px;
+    }
+
+    #our_services #right_our_services h2 {
+        font-size: 20px;
+    }
+
+    #our_services #right_our_services p {
+        font-size: 13px;
+    }
+
+    #our_services #right_our_services li p {
+        font-size: 13px;
+    }
+
+    #why_us #top_why_us h2 {
+        font-size: 20px;
+    }
+    
+    #why_us #top_why_us p {
+        font-size: 13px;
+    }
+
+    #why_us .card_item h3 {
+        font-size: 13px;
+    }
+    
+    #why_us .card_item p {
+        font-size: 13px;
+    }
+
+    #testimonial #top_testimonial h2 {
+        font-size: 24px;
+    }
+    
+    #testimonial #top_testimonial p {
+        font-size: 13px;
+    }
+
+    .swiper-slide .right p{
+        font-size: 13px;
+    }
+    
+    .swiper-slide .right h4{
+        font-size: 13px;
+        text-align: left
+    }
+
+    #banner h2 {
+        font-size: 32px;;
+    }
+    
+    #banner p {
+        font-size: 13px;
+    }
+    
+    #banner button {
+        font-size: 13px;;
+    }
+
+    #faq #left_faq h2 {
+        font-size: 24px;
+    }
+    
+    #faq #left_faq p {
+        font-size: 13px;
+    }
+
+    #footer #left_item p {
+        font-size: 13px;
+    }
+    
+    #footer #middle_left_item p {
+        font-size: 13px;
+    }
+    
+    #footer #middle_right_item p {
+        font-size: 13px;
+    }
+
+    #footer #right_item p {
+        font-size: 13px;
+    }
+}
+
+@media only screen and (max-width: 875px) {
+    #faq #right_faq .accordion-item {
+        width: 435px;
+    }
+
+    header #left_header h1 {
+        line-height: 45px;
+    }
+
+    header #left_header p {
+        padding-right: 50px;
+    }
+}
+
+@media only screen and (max-width: 875px) {
+    #faq #right_faq .accordion-item {
+        width: 435px;
+    }
+
+    header #left_header h1 {
+        line-height: 45px;
+    }
+
+    header #left_header p {
+        padding-right: 50px;
+    }
+
+    .swiper-slide {
+        width: 100% !important;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    header #left_header h1 {
+        font-size: 40px;
+        margin-bottom: 30px;
+    }
+    
+    header #left_header p {
+        font-size: 15px;
+        margin-bottom: 30px
+    }
+
+    header #left_header button {
+        font-size: 15px;
+    }
+
+    #our_services {
+        margin-top: 490px;
+    }
+
+    #our_services #left_our_services {
+        height: 480px;
+    }
+
+    #why_us {
+        margin-top: 400px;
+    }
+
+    #banner {
+        margin-top: 20px;
+    }
+
+    #banner h2 {
+        font-size: 30px;
+        line-height: 34px;
+    }
+    
+    #banner p {
+        font-size: 13px;
+    }
+    
+    #banner button {
+        font-size: 13px;
+        margin-top: 20px;
+    }
+
+    #faq #left_faq {
+        height: 100px !important;
+    }
+
+    #footer {
+        margin-top: 200px;
+    }
+}
+
+@media only screen and (max-width: 647px) {
+    #nav ul {
+        width: 80% !important;
+        display: flex !important;
+        flex-direction: column;
+        margin-top: 10px;
+    }
+}
+
+@media only screen and (max-width: 576px) {
+    header #left_header h1 {
+        font-size: 28px;
+        margin: 0;
+    }
+    
+    header #left_header p {
+        font-size: 13px;
+        margin: 10px 0;
+    }
+    
+    header #left_header button {
+        font-size: 13px;
+        margin: 10px 0;
+    }
+    
+    #why_us {
+        margin-top: 450px;
+    }
+
+    #why_us .card {
+        width: 100%;
+        margin-bottom: 20px;
+    }
+
+    #testimonial {
+        margin-top: 700px;
+    }
+
+    #faq #right_faq .accordion-item {
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    #nav a{
+        display: none;
+    }
+    
+    #nav button {
+        display: none;
+    }
+}
